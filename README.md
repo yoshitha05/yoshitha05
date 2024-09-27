@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoshitha05 who loves to learn more from the Internet. 
+- 👋 Hi, I’m @yoshitha05 who loves to learn more from the Internet and a good programmer w/great hobbies. 
 - 👀 I’m interested in technology🧑‍💻 especially Robotics, innovation, art and photography📸
 - 🌱 I’m currently learning Machine Learning and UI/UX.In addition am proficient in python,java and frontend development.
 - 📫 How to reach me: yoshithap05@gmail.com
