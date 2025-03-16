@@ -10,7 +10,6 @@
 
 🎓 Pre-final year B.Tech student | 📍 India
 🔬 Passionate about Machine Learning, NLP, and AI
-🎯 Aspiring to pursue an MS & Ph.D. in the USA
 📈 Exploring real-time applications of AI & NLP
 
 ### 🚀 About Me:
@@ -75,4 +74,50 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
+#### 🚀 Other Technologies:
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
 ---
+
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshitha05&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshitha05&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitha05&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### 📫 Connect with Me:
+<p>
+  <a href="https://www.linkedin.com/in/yoshitha-podisetty-90a9aa269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yoshitha05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.hackerrank.com/profile/yoshithap05">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://twitter.com/yoshitha_19">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://www.kaggle.com/yoshithapodisetty">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://www.codechef.com/users/worth_cattle">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/yoshitofo7/?ref=header_profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+</p>
+
+---
+
