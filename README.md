@@ -65,6 +65,15 @@
 
 ---
 
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yoshitha05&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoshitha05&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitha05&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
 ### 📫 Connect with Me:
 <p>
   <a href="https://www.linkedin.com/in/yoshitha-podisetty-90a9aa269">
