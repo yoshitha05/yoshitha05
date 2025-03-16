@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=500&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
