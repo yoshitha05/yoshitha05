@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=500&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=600&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 🎓 Pre-final year B.Tech student | 📍 India |
 🔬 Passionate about Machine Learning, NLP, and AI | Exploring real-time applications of AI & NLP
 
-### 💁🏻‍♀️ About Me:
+### 🧚🏻 About Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
 - 👀 I’m interested in technology👩🏻‍💻, especially Robotics, innovation, art, and photography📸
 - 🎓 Pre-final year B.Tech student in India 
@@ -26,7 +26,7 @@
 
 ---
 
-#### 🚀 Programming Languages:
+#### ![image](https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5) Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
