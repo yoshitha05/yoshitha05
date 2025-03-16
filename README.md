@@ -7,9 +7,8 @@
 ### 🚀 About Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
 - 👀 I’m interested in technology🧑‍💻, especially Robotics, innovation, art, and photography📸
-- 🎓 Pre-final year B.Tech student in India (8 CGPA)
+- 🎓 Pre-final year B.Tech student in India 
 - 🔬 Passionate about Machine Learning, NLP, and AI
-- 🎯 Aspiring for an MS & Ph.D. in the USA
 - 💻 Currently working on:
   - ✅ **Grammar Checking Model** (NLP, Flask, React)
   - ✅ **Medical NER for Electronic Health Records** (NLP, Transformers, displaCy)
@@ -58,10 +57,10 @@
 
 ### 📫 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/yoshitha-podisetty-90a9aa269">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="[https://github.com/yourusername](https://github.com/yoshitha05)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
