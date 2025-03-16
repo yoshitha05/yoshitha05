@@ -1,3 +1,14 @@
+## 👋 Hi, I'm Yoshitha Podisetty!
+
+🎓 Pre-final year B.Tech student | 📍 India
+🔬 Passionate about Machine Learning, NLP, and AI
+🎯 Aspiring to pursue an MS & Ph.D. in the USA
+📈 Exploring real-time applications of AI & NLP
+
+![Profile GIF](https://github.com/yoshitha05/yoshitha05/blob/main/profile.gif)
+
+---
+
 ### 🛠️ Tech Stack:
 
 #### 🚀 Programming Languages:
