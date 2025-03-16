@@ -6,8 +6,6 @@
   <img src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="400" alt="GIF">
 </p>
 
-## 👋 Hi, I'm Yoshitha Podisetty!
-
 🎓 Pre-final year B.Tech student | 📍 India
 🔬 Passionate about Machine Learning, NLP, and AI
 📈 Exploring real-time applications of AI & NLP
