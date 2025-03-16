@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoshitha! 👋
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSaraNooryar%2Fsaranooryar&psig=AOvVaw091RM36fEPS20y1dkTpV8l&ust=1742193246635000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCmwuH9jYwDFQAAAAAdAAAAABAE" width="400" alt="GIF">
+  <img src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="400" alt="GIF">
 </p>
 
 ### 🚀 About Me:
