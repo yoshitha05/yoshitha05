@@ -28,55 +28,24 @@
 #### <img src="https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5" alt="emoji" width="25" height="25"/> Programming Languages:
 
 
-### 🚀 Programming Languages:
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Code-Java-yellow?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-f7df1e?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=cplusplus)
-![C](https://img.shields.io/badge/Code-C-00599C?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/Code-Go-00ADD8?style=flat-square&logo=go)
+🚀 **Programming Languages:**  
+![Python](https://img.shields.io/badge/Code-Python-blue) ![Java](https://img.shields.io/badge/Code-Java-yellow) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![C++](https://img.shields.io/badge/Code-C%2B%2B-blue) ![C](https://img.shields.io/badge/Code-C-blue) ![Go](https://img.shields.io/badge/Code-Go-lightblue)  
 
----
+📚 **Frameworks & Libraries:**  
+![Flask](https://img.shields.io/badge/Framework-Flask-grey) ![Django](https://img.shields.io/badge/Framework-Django-blue) ![React](https://img.shields.io/badge/Framework-React-blue) ![Angular](https://img.shields.io/badge/Framework-Angular-red) ![Node.js](https://img.shields.io/badge/Framework-Node.js-green) ![Sigma.js](https://img.shields.io/badge/Library-Sigma.js-black) ![Transformers](https://img.shields.io/badge/Library-Transformers-orange) ![NLP](https://img.shields.io/badge/Library-NLP-green) ![displaCy](https://img.shields.io/badge/Library-displaCy-blue) ![Pipelines](https://img.shields.io/badge/Library-Pipelines-orange)  
 
-### 📚 Frameworks & Libraries:
-![Flask](https://img.shields.io/badge/Framework-Flask-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Framework-Django-092E20?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?style=flat-square&logo=angular)
-![Node.js](https://img.shields.io/badge/Framework-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Sigma.js](https://img.shields.io/badge/Library-Sigma.js-black?style=flat-square)
-![Transformers](https://img.shields.io/badge/Library-Transformers-orange?style=flat-square)
-![NLP](https://img.shields.io/badge/Library-NLP-green?style=flat-square)
-![displaCy](https://img.shields.io/badge/Library-displaCy-blue?style=flat-square)
-![Pipelines](https://img.shields.io/badge/Library-Pipelines-red?style=flat-square)
+🗄️ **Databases:**  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green) ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  
 
----
+☁️ **Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/Cloud-AWS-gray) ![Azure](https://img.shields.io/badge/Cloud-Azure-blue) ![GCP](https://img.shields.io/badge/Cloud-GCP-blue) ![Docker](https://img.shields.io/badge/DevOps-Docker-blue)  
 
-### 🗄️ Databases:
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql)
+🛠️ **Deployment & Tools:**  
+![Git](https://img.shields.io/badge/Tool-Git-red) ![GitHub](https://img.shields.io/badge/Tool-GitHub-black) ![Google Colab](https://img.shields.io/badge/Tool-Google_Colab-yellow) ![VS Code](https://img.shields.io/badge/Tool-VS_Code-blue)  
 
----
+💡 **Other Technologies:**  
+![Android](https://img.shields.io/badge/Tech-Android-green) ![TypeScript](https://img.shields.io/badge/Tech-TypeScript-blue)
 
-### ☁️ Cloud & DevOps:
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=googlecloud)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker)
-
----
-
-### 🔧 Deployment & Tools:
-![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?style=flat-square&logo=github)
-![Google Colab](https://img.shields.io/badge/Tool-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)
-![VS Code](https://img.shields.io/badge/Tool-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
-
----
-
-### 🚀 Other Technologies:
-![Android](https://img.shields.io/badge/Tech-Android-3DDC84?style=flat-square&logo=android)
-![TypeScript](https://img.shields.io/badge/Tech-TypeScript-3178C6?style=flat-square&logo=typescript)
 
 ---
 
