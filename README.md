@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=435&lines=Hello+there,fellow <developers/>+%2C+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=500&lines=Hello+there%2C+fellow+%3Cdevelopers%2F%3E!+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 💁🏻‍♀️ About Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
-- 👀 I’m interested in technology🧑‍💻, especially Robotics, innovation, art, and photography📸
+- 👀 I’m interested in technology👩🏻‍💻, especially Robotics, innovation, art, and photography📸
 - 🎓 Pre-final year B.Tech student in India 
 - 🔬 Passionate about Machine Learning, NLP, and AI
 - 💻 Currently working on:
