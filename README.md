@@ -1,7 +1,7 @@
 ### Hi there, I'm Yoshitha! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif" width="400" alt="GIF">
+  <img src="[https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FarunimaChintu&psig=AOvVaw21fMaUy-t-tVf5IzXUg0Dw&ust=1742192825615000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjehZf8jYwDFQAAAAAdAAAAABAE)" width="400" alt="GIF">
 </p>
 
 ### 🚀 About Me:
