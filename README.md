@@ -27,8 +27,6 @@
 
 #### <img src="https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5" alt="emoji" width="25" height="25"/> Programming Languages:
 
-
-🚀 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Code-Python-blue) ![Java](https://img.shields.io/badge/Code-Java-yellow) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![C++](https://img.shields.io/badge/Code-C%2B%2B-blue) ![C](https://img.shields.io/badge/Code-C-blue) ![Go](https://img.shields.io/badge/Code-Go-lightblue)  
 
 📚 **Frameworks & Libraries:**  
@@ -45,14 +43,6 @@
 
 💡 **Other Technologies:**  
 ![Android](https://img.shields.io/badge/Tech-Android-green) ![TypeScript](https://img.shields.io/badge/Tech-TypeScript-blue)
-
-
----
-
-
-
-
-
 
 
 
