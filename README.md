@@ -9,7 +9,7 @@
 🎓 Pre-final year B.Tech student | 📍 India |
 🔬 Passionate about Machine Learning, NLP, and AI | Exploring real-time applications of AI & NLP
 
-### 🧚🏻 About Me:
+###  <img src="https://camo.githubusercontent.com/6f9296a4c8b352a3a335f257ccf592c010c5f578a17a2f8d7ef407efe5dbe6a9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="emoji" width="40" height="40"/> A little more 'bout Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
 - 👀 I’m interested in technology👩🏻‍💻, especially Robotics, innovation, art, and photography📸
 - 🎓 Pre-final year B.Tech student in India 
