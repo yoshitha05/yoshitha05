@@ -6,9 +6,8 @@
   <img src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="400" alt="GIF">
 </p>
 
-🎓 Pre-final year B.Tech student | 📍 India
-🔬 Passionate about Machine Learning, NLP, and AI
-📈 Exploring real-time applications of AI & NLP
+🎓 Pre-final year B.Tech student | 📍 India |
+🔬 Passionate about Machine Learning, NLP, and AI | Exploring real-time applications of AI & NLP
 
 ### 💁🏻‍♀️ About Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
