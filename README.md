@@ -17,7 +17,6 @@
 - 💻 Currently working on:
   - ✅ **Grammar Checking Model** (NLP, Flask, React)
   - ✅ **Medical NER for Electronic Health Records** (NLP, Transformers, displaCy)
-  - ✅ **Portfolio Website** (React, Sigma.js)
 - 🌱 I’m currently working on NLP and Gen AI. I am also proficient in Python, Java, and front-end development.
 - ✨ I'd like to connect with like-minded individuals who share my interests and passions while also being open to exploring new experiences and diversifying my interests.
 - 📫 How to reach me: yoshithap05@gmail.com
