@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/Tool-Git-red) ![GitHub](https://img.shields.io/badge/Tool-GitHub-black) ![Google Colab](https://img.shields.io/badge/Tool-Google_Colab-yellow) ![VS Code](https://img.shields.io/badge/Tool-VS_Code-blue)  
 
 💡 **Other Technologies:**  
-![Android](https://img.shields.io/badge/Tech-Android-green) !(https://img.shields.io/badge/Tech-TypeScript-blue)
+![Android](https://img.shields.io/badge/Tech-Android-green) (https://img.shields.io/badge/Tech-TypeScript-blue)
 
 
 
