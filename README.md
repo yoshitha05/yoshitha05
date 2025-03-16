@@ -10,7 +10,7 @@
 🔬 Passionate about Machine Learning, NLP, and AI
 📈 Exploring real-time applications of AI & NLP
 
-### 🚀 About Me:
+### 💁🏻‍♀️ About Me:
 - 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
 - 👀 I’m interested in technology🧑‍💻, especially Robotics, innovation, art, and photography📸
 - 🎓 Pre-final year B.Tech student in India 
