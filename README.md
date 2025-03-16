@@ -26,7 +26,7 @@
 
 ---
 
-#### ![image](https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5) Programming Languages:
+#### <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&width=500&lines=Hello+there%2C+fellow!+I'm+Yoshitha!+%F0%9F%91%8B" alt="Typing SVG" height="20px"/> </p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
