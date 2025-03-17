@@ -26,65 +26,61 @@
 ---
 
 #### <img src="https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5" alt="emoji" width="25" height="25"/> Programming Languages:
-## 🚀 Categories and Skills
+![C](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/c.svg)
+![C++](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/cpp.svg)
+![C#](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp.svg)
+![Java](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg)
+![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/javascript.svg)
+![TypeScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/typescript.svg)
+![Python](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg)
+![Ruby](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/ruby.svg)
+![PHP](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg)
+![Go](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg)
 
-### **Programming Languages**
-![C](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/c.svg)
-![C++](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg)
-![C#](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg)
-![Java](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg)
-![JavaScript](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)
-![TypeScript](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/ts.svg)
-![Python](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)
-![Ruby](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/ruby.svg)
-![PHP](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/php.svg)
-![Go](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/go.svg)
+### Frontend Development
+![React](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
+![Angular](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg)
+![Vue.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg)
+![Bootstrap](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bootstrap.svg)
+![TailwindCSS](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/tailwindcss.svg)
+![Material-UI](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/materialui.svg)
+![CSS](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
+![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html5.svg)
+![Webpack](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/webpack.svg)
+![Sass](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/sass.svg)
 
-### **Frontend Development**
-![React](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg)
-![Angular](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angular.svg)
-![Vue.js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg)
-![Bootstrap](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/bootstrap.svg)
-![TailwindCSS](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/tailwind.svg)
-![Material-UI](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/materialui.svg)
-![CSS](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg)
-![HTML](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)
-![Webpack](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/webpack.svg)
-![Sass](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/sass.svg)
+### Backend Development
+![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
+![Express.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/express.svg)
 
-### **Backend Development**
-![Node.js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/nodejs.svg)
-![Express.js](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/express.svg)
+### Mobile App Development
+![Android](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/platforms/android.svg)
+![Flutter](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/flutter.svg)
 
-### **Mobile App Development**
-![Android](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/android.svg)
-![Flutter](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/flutter.svg)
+### AI/ML
+![TensorFlow](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/tensorflow.svg)
+![PyTorch](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/pytorch.svg)
+![OpenCV](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/opencv.svg)
+![Keras](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/keras.svg)
+![Hugging Face](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/huggingface.svg)
 
-### **AI/ML**
-![TensorFlow](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/tensorflow.svg)
-![PyTorch](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/pytorch.svg)
-![OpenCV](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/opencv.svg)
-![Keras](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/keras.svg)
-![Hugging Face](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/huggingface.svg)
+### Databases
+![MySQL](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/databases/mysql.svg)
+![MongoDB](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/databases/mongodb.svg)
+![Firebase](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/databases/firebase.svg)
 
-### **Databases**
-![MySQL](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/database/mysql.svg)
-![MongoDB](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/database/mongo.svg)
-![Firebase](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/database/firebase.svg)
+### Software
+![Adobe Illustrator](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/adobeillustrator.svg)
+![Adobe Photoshop](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/adobephotoshop.svg)
+![Figma](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/figma.svg)
+![Blender](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/blender.svg)
+![Wix Studio](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/wix.svg)
+![Postman](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/postman.svg)
 
-### **Software**
-![Adobe Illustrator](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/illustrator.svg)
-![Adobe Photoshop](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/photoshop.svg)
-![Figma](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/figma.svg)
-![Blender](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/blender.svg)
-![Wix Studio](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/wix.svg)
-![Postman](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/postman.svg)
-
-### **Other**
-![Git](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/git.svg)
-![Linux](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/linux.svg)
-![Arduino](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/arduino.svg)
-
+### Other
+![Git](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/git.svg)
+![Linux](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/linux.svg)
+![Arduino](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/arduino.svg)
 
 
 
