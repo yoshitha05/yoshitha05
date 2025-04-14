@@ -6,20 +6,18 @@
   <img src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="400" alt="GIF">
 </p>
 
-🎓 Pre-final year B.Tech student | 📍 India |
-🔬 Passionate about Machine Learning, NLP, and AI | Exploring real-time applications of AI & NLP
+🎓 Pre-final year B.Tech student | 📍 India | Exploring real-time applications of AI & NLP
 
 ###  <img src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="emoji" width="40" height="40"/> About Me:
-- 👋 Hi, I’m a tech wizard who loves exploring the internet, sprinkling a little magic into my learning journey🪄, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
-- 👀 I’m interested in technology👩🏻‍💻, especially Robotics, innovation, art, and photography📸
-- 🎓 Pre-final year B.Tech student in India 
-- 🔬 Passionate about Machine Learning, NLP, and AI
-- 💻 Currently working on:
-  - ✅ **Grammar Checking Model** (NLP, Flask, React)
-  - ✅ **Medical NER for Electronic Health Records** (NLP, Transformers, displaCy)
-- 🌱 I’m currently working on NLP and Gen AI. I am also proficient in Python, Java, and front-end development.
-- ✨ I'd like to connect with like-minded individuals who share my interests and passions while also being open to exploring new experiences and diversifying my interests.
-- 📫 How to reach me: yoshithap05@gmail.com
+- Hola Guys!!!! I’m a techie who loves exploring new things in the internet, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
+- I’m interested in technology👩🏻‍💻, especially in robotics, innovation, art, and photography📸
+- Currently working on:
+  - **Grammar Checking Model** (NLP, Flask, React)
+  - **Medical NER for Electronic Health Records** (NLP, Transformers, displaCy)
+- I’m currently working on NLP and Gen AI and also proficient in Python, Java, and front-end development.
+- I'd like to connect with like-minded individuals who share my interests and passions while also being open to exploring new experiences and diversifying my interests.
+
+📫 How to reach me: yoshithap05@gmail.com
 
 ![Profile GIF](https://github.com/yoshitha05/yoshitha05/blob/main/profile.gif)
 
