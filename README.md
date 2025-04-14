@@ -101,25 +101,25 @@
 ### 📫 Connect with Me:
 <p>
   <a href="https://www.linkedin.com/in/yoshitha-podisetty-90a9aa269">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/yoshitha05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.hackerrank.com/profile/yoshithap05">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=plastic&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
   <a href="https://twitter.com/yoshitha_19">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-000000?style=plastic&logo=twitter&logoColor=white" alt="X (Twitter)">
   </a>
   <a href="https://www.kaggle.com/yoshithapodisetty">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://www.codechef.com/users/worth_cattle">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
   <a href="https://www.geeksforgeeks.org/user/yoshitofo7/?ref=header_profile">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=plastic&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
 </p>
 
