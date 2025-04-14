@@ -11,8 +11,7 @@
 ###  <img src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="emoji" width="40" height="40"/> About Me:
 - Hola Guys!!!! I’m a techie who loves exploring new things on the internet, and also a passionate programmer with awesome hobbies!💁🏻‍♀️
 - I’m interested in technology👩🏻‍💻 especially in robotics, innovation, art, and photography 📸
-- Currently blending frontend flair with backend brains to build smart apps that actually solve problems I'd say 😮‍💨
-- I'd like to connect with like-minded individuals who share my interests and passions while also being open to exploring new experiences and diversifying my interests.
+- Currently blending frontend flair with backend brains to build smart apps that actually solve problems.
 
 📫 How to reach me: yoshithap05@gmail.com
 
