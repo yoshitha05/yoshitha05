@@ -9,9 +9,8 @@
 🎓 B.Tech Graduate | 📍 India | Exploring real-time applications of AI & NLP
 
 ###  <img src="https://camo.githubusercontent.com/99110c0b2dfc766d40af49a0a15b81297c9f7995915a64966d00c585714ab9ee/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="emoji" width="40" height="40"/> About Me:
-- Hola Guys!!!! I’m a techie who loves exploring new things on the internet, and geeking out over cool hobbies!💁🏻‍♀️
+- I’m a techie who loves exploring new things on the internet, and geeking out over cool hobbies!💁🏻‍♀️
 - Am interested in technology with a soft spot for robotics👩🏻‍💻, and when I’m not coding, you’ll find me skating, making art, flowing through yoga, in ramp walk sesh or capturing the world through my lens 📸
-- Currently blending frontend flair with backend brains to build apps that actually solve problems 👾
 
 📫 How to reach me: yoshithap05@gmail.com
 
@@ -20,10 +19,7 @@
 ---
 
 #### <img src="https://github.com/user-attachments/assets/9a1c0be6-280c-4904-a2bf-7847b26253d5" alt="emoji" width="25" height="25"/> Programming Languages:
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -33,16 +29,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 ###  Backend Development  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-###  Mobile App Development  
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ###  AI/ML  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -54,7 +45,6 @@
 ###  Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ###  Software  
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
